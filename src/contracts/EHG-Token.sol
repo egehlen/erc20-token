@@ -5,6 +5,6 @@ import {MintableToken} from "./MintableToken.sol";
 
 contract EHGToken is MintableToken {
     string public constant name = "Enzo's Token :)";
-    string public constant symbol = "EHGT";
+    string public constant symbol = "OZNE";
     uint8 public constant decimals = 18;
 }
